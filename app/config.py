@@ -5,7 +5,7 @@ load_dotenv() # Load environment variables from a .env file (if exists)
 
 PINECONE_API_KEY = os.getenv(                 #  Pinecone API Key
     "PINECONE_API_KEY",
-    "pcsk_6KFiZf_jHoSM45Bi8vVS8dNrQrpQbQknoLNdkTfqLPymzS8RrkYT8GjvKdsY7tPZbjjSX"
+    "Enter Pincecone API Keys"
 )
 
 INDEX_NAME = "simple-free-rag"  #Pinecone Index Configuration
